@@ -7,4 +7,4 @@ adding another line
 
 new branch
 
-some this not thought of
+some this not thought of and still thinking
