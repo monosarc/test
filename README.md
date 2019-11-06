@@ -3,6 +3,6 @@
 This is an example
 ## this is a new commit
 
-add go go gone
+adding another line
 
 new branch
