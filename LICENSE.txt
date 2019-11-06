@@ -1,3 +1,4 @@
 # LICENSE
 
 ## MY LICENSE v0,3
+## the license is optional
